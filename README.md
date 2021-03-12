@@ -3,7 +3,7 @@
 <img src="https://gnlf.gitee.io/test/img/avatar.jpg" width="100px" height="100px"  />
 
 <p align="center">
-  <a href="https://github.com/Charmve" class="rich-diff-level-one">
+  <a href="https://github.com/GNLF" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=GNLF&title_color=333&text_color=777" alt="Charmve's Stats" >
     <!-- &hide=issues
     <img src="https://github-readme-stats.vercel.app/api?username=GNLF&hide=issues&title_color=333&text_color=777" alt="GNLF's Stats" >
@@ -36,9 +36,6 @@
   </a>
   <a href="https://github.com/GNLF?tab=repositories">
     <img src="https://badges.pufler.dev/repos/GNLF?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://gist.github.com/GNLF">
-    <img src="https://badges.pufler.dev/gists/GNLF?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/GNLF">
     <img src="https://badges.pufler.dev/commits/monthly/GNLF?style=flat-square&color=black&logo=github">
