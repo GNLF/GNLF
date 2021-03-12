@@ -12,16 +12,16 @@
 </p>
 
 <p align="center">
-  <a href="https://blog.csdn.net/Charmve" target="_blank">
-    <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
+  <a href="http://101.132.99.198" target="_blank">
+    <img src="https://gnlf.gitee.io/test/img/icon.svg" width="24px"/>
   </a>
   &emsp;
-  <a href="https://my.oschina.net/charmve" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/blogger.png" width="24px"/>
+  <a href="https://gitee.com/gnlf" target="_blank">
+    <img src="https://simpleicons.org/icons/gitee.svg" width="24px"/>
   </a>
   &emsp;
   <a href="https://space.bilibili.com/8255875" target="_blank">
-    <img src="https://simpleicons.org/icons/bilibili.svg" width="30px"/>
+    <img src="https://simpleicons.org/icons/bilibili.svg" width="24px"/>
   </a>
   &emsp;
   &emsp;
