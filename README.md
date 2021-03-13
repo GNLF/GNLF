@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="http://101.132.99.198" target="_blank">
-    <img src="http://101.132.99.198/source/img/icon.svg" width="24px"/>
+    <img src="https://gnlf.gitee.io/test/img/icon.svg" width="24px"/>
   </a>
   <a href="https://gitee.com/gnlf" target="_blank">
     <img src="https://simpleicons.org/icons/gitee.svg" width="24px"/>
