@@ -1,6 +1,6 @@
 👋 Hi, I’m @GNLF
 
-<img src="https://gnlf.gitee.io/test/img/avatar.jpg" width="100px" height="100px"  />
+<!-- <img src="https://gnlf.gitee.io/test/img/avatar.jpg" width="100px" height="100px"  /> -->
 
 <p align="center">
   <a href="https://github.com/GNLF" class="rich-diff-level-one">
