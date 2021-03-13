@@ -14,22 +14,19 @@
 
 <p align="center">
   <a href="http://101.132.99.198" target="_blank">
-    <img src="https://gnlf.gitee.io/test/img/icon.svg" width="24px"/>
+    <img src="http://101.132.99.198/source/img/icon.svg" width="24px"/>
   </a>
-  &emsp;
   <a href="https://gitee.com/gnlf" target="_blank">
     <img src="https://simpleicons.org/icons/gitee.svg" width="24px"/>
   </a>
-  &emsp;
   <a href="https://space.bilibili.com/8255875" target="_blank">
     <img src="https://simpleicons.org/icons/bilibili.svg" width="24px"/>
   </a>
-  &emsp;
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
   <a href="https://github.com/GNLF">
-    <img src="https://badges.pufler.dev/visits/GNLF/Charmve?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/visits/GNLF/GNLF?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/GNLF">
     <img src="https://badges.pufler.dev/years/GNLF?style=flat-square&color=black&logo=github">
