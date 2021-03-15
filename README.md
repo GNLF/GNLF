@@ -14,13 +14,13 @@
 
 <p align="center">
   <a href="http://101.132.99.198" target="_blank">
-    <img src="http://101.132.99.198/favicon.ico" width="24px"/>
+    <img src="https://simpleicons.org/icons/justgiving.svg" width="24px"/>
   </a>
-       
+  &nbsp;&nbsp;
   <a href="https://gitee.com/gnlf" target="_blank">
     <img src="https://simpleicons.org/icons/gitee.svg" width="24px"/>
   </a>
-         
+  &nbsp;&nbsp;     
   <a href="https://space.bilibili.com/8255875" target="_blank">
     <img src="https://simpleicons.org/icons/bilibili.svg" width="24px"/>
   </a>
