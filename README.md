@@ -26,23 +26,24 @@
   <strong>Check out my work below😀!</strong>
   <br><br>
   <a href="https://github.com/GNLF">
-    <img src="https://badges.pufler.dev/visits/GNLF/GNLF?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/visits/GNLF/GNLF?style=flat&logo=github">
   </a>
   <a href="https://github.com/GNLF">
-    <img src="https://badges.pufler.dev/years/GNLF?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/years/GNLF?style=flat&logo=github">
   </a>
   <a href="https://github.com/GNLF">
-    <img src="https://badges.pufler.dev/repos/GNLF?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/repos/GNLF?style=flat&logo=github">
   </a>
   <a href="https://github.com/GNLF">
-    <img src="https://badges.pufler.dev/commits/monthly/GNLF?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/commits/monthly/GNLF?style=flat&logo=github">
   </a>
 </p>
 
-### blog <a href="https://github.com/GNLF">
-           <img src="https://badges.pufler.dev/created/GNLF/blog?style=flat-square&color=black&logo=github">
-           <img src="https://badges.pufler.dev/updated/gnlf/blog">
-       </a>
+### blog 
+<a href="https://github.com/GNLF">
+    <img src="https://badges.pufler.dev/created/GNLF/blog?style=flat&logo=github">
+    <img src="https://badges.pufler.dev/updated/gnlf/blog?style=flat&logo=github">
+</a>
 
 #### contributors:
  
