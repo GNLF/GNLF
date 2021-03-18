@@ -39,12 +39,12 @@
   </a>
 </p>
 
-- blog <a href="https://github.com/GNLF">
-          <img src="https://badges.pufler.dev/created/GNLF/blog?style=flat-square&color=black&logo=github">
-          <img src="https://badges.pufler.dev/updated/gnlf/blog">
-      </a>
+### blog <a href="https://github.com/GNLF">
+           <img src="https://badges.pufler.dev/created/GNLF/blog?style=flat-square&color=black&logo=github">
+           <img src="https://badges.pufler.dev/updated/gnlf/blog">
+       </a>
 
- contributors:
+#### contributors:
  
    <img src="https://badges.pufler.dev/contributors/gnlf/blog?size=50&padding=10&bots=true">
 
