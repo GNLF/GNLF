@@ -1,5 +1,5 @@
-👋 Hi, I’m @GNLF<br/>
-✨ 花开堪折直须折,莫待无花空折枝
+> 👋 Hi, I’m @GNLF<br/>
+  ✨ 花开堪折直须折,莫待无花空折枝
 
 <!-- <img src="https://gnlf.gitee.io/test/img/avatar.jpg" width="100px" height="100px"  /> -->
 
