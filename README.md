@@ -41,15 +41,13 @@
 
 ## Repository List
 
-### blog [![Updated Badge](https://badges.pufler.dev/created/GNLF/blog?style=flat&logo=github)](https://github.com/GNLF/blog)  [![Updated Badge](https://badges.pufler.dev/updated/gnlf/blog?style=flat&logo=github)](https://github.com/GNLF/blog)
-
-   **Contributors:**
+### blog 
+[![Updated Badge](https://badges.pufler.dev/created/GNLF/blog?style=flat&logo=github)](https://github.com/GNLF/blog)  [![Updated Badge](https://badges.pufler.dev/updated/gnlf/blog?style=flat&logo=github)](https://github.com/GNLF/blog)
    
    [![Contributors Display](https://badges.pufler.dev/contributors/gnlf/blog?size=50&padding=5&bots=true)](https://github.com/GNLF/blog)
    
-### h5-clock [![Updated Badge](https://badges.pufler.dev/created/GNLF/h5-clock?style=flat&logo=github)](https://github.com/GNLF/h5-clock)  [![Updated Badge](https://badges.pufler.dev/updated/gnlf/h5-clock?style=flat&logo=github)](https://github.com/GNLF/h5-clock)
-
-   **Contributors:**
+### h5-clock 
+[![Updated Badge](https://badges.pufler.dev/created/GNLF/h5-clock?style=flat&logo=github)](https://github.com/GNLF/h5-clock)  [![Updated Badge](https://badges.pufler.dev/updated/gnlf/h5-clock?style=flat&logo=github)](https://github.com/GNLF/h5-clock)
 
    [![Contributors Display](https://badges.pufler.dev/contributors/gnlf/h5-clock?size=50&padding=5&bots=true)](https://github.com/GNLF/h5-clock)
 
