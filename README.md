@@ -1,5 +1,5 @@
  👋 Hi, I’m @GNLF<br/>
- ✨ <i>花开堪折直须折,莫待无花空折枝</i>
+> ✨ 花开堪折直须折,莫待无花空折枝
 
 <p align="center">
   <a href="https://github.com/GNLF" class="rich-diff-level-one">
@@ -39,15 +39,17 @@
   </a>
 </p>
 
-### BLOG [![Updated Badge](https://badges.pufler.dev/created/GNLF/blog?style=flat&logo=github)](https://github.com/GNLF/blog)  [![Updated Badge](https://badges.pufler.dev/updated/gnlf/blog?style=flat&logo=github)](https://github.com/GNLF/blog)
+## Repository List
 
-   **contributors:**
+### blog [![Updated Badge](https://badges.pufler.dev/created/GNLF/blog?style=flat&logo=github)](https://github.com/GNLF/blog)  [![Updated Badge](https://badges.pufler.dev/updated/gnlf/blog?style=flat&logo=github)](https://github.com/GNLF/blog)
+
+   **Contributors:**
    
-    [![Contributors Display](https://badges.pufler.dev/contributors/gnlf/blog?size=50&padding=5&bots=true)](https://github.com/GNLF/blog)
+   [![Contributors Display](https://badges.pufler.dev/contributors/gnlf/blog?size=50&padding=5&bots=true)](https://github.com/GNLF/blog)
    
 ### h5-clock [![Updated Badge](https://badges.pufler.dev/created/GNLF/h5-clock?style=flat&logo=github)](https://github.com/GNLF/h5-clock)  [![Updated Badge](https://badges.pufler.dev/updated/gnlf/h5-clock?style=flat&logo=github)](https://github.com/GNLF/h5-clock)
 
-   **contributors:**
+   **Contributors:**
 
-    [![Contributors Display](https://badges.pufler.dev/contributors/gnlf/h5-clock?size=50&padding=5&bots=true)](https://github.com/GNLF/h5-clock)
+   [![Contributors Display](https://badges.pufler.dev/contributors/gnlf/h5-clock?size=50&padding=5&bots=true)](https://github.com/GNLF/h5-clock)
 
