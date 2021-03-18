@@ -7,6 +7,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=GNLF&title_color=333&text_color=777&show_icons=true&count_private=true" alt="GNLF's Stats" >
   </a>
   <br/>
+  <br/>
+  <br/>
   <a href="https://github.com/GNLF" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GNLF&layout=compact" alt="GNLF's Used Languages" >
   </a>
