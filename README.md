@@ -46,8 +46,8 @@
    
    [![Contributors Display](https://badges.pufler.dev/contributors/gnlf/blog?size=50&padding=5&bots=true)](https://github.com/GNLF/blog)
    
-### h5-clock 
-[![Updated Badge](https://badges.pufler.dev/created/GNLF/h5-clock?style=flat&logo=github)](https://github.com/GNLF/h5-clock)  [![Updated Badge](https://badges.pufler.dev/updated/gnlf/h5-clock?style=flat&logo=github)](https://github.com/GNLF/h5-clock)
+### flip-clock-h5 
+[![Updated Badge](https://badges.pufler.dev/created/GNLF/flip-clock-h5?style=flat&logo=github)](https://github.com/GNLF/flip-clock-h5)  [![Updated Badge](https://badges.pufler.dev/updated/gnlf/flip-clock-h5?style=flat&logo=github)](https://github.com/GNLF/flip-clock-h5)
 
-   [![Contributors Display](https://badges.pufler.dev/contributors/gnlf/h5-clock?size=50&padding=5&bots=true)](https://github.com/GNLF/h5-clock)
+   [![Contributors Display](https://badges.pufler.dev/contributors/gnlf/flip-clock-h5?size=50&padding=5&bots=true)](https://github.com/GNLF/flip-clock-h5)
 
