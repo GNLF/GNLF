@@ -21,9 +21,7 @@
   &nbsp;&nbsp;     
   <a href="https://space.bilibili.com/8255875" target="_blank">
     <img src="https://simpleicons.org/icons/bilibili.svg" width="24px"/>
-  </a>
-  <br><br>
-  <strong>Check out my work below😀!</strong>
+ </a>
   <br><br>
   <a href="https://github.com/GNLF">
     <img src="https://badges.pufler.dev/visits/GNLF/GNLF?style=flat&logo=github">
