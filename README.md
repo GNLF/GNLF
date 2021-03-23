@@ -1,7 +1,7 @@
  👋 Hi, I’m @GNLF<br/>
 > ✨ 花开堪折直须折,莫待无花空折枝
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/GNLF" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=GNLF&title_color=333&text_color=777&show_icons=true&count_private=true" alt="GNLF's Stats" >
   </a>
@@ -11,7 +11,7 @@
 <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GNLF&layout=compact&hide_langs_below=1" alt="GNLF's Used Languages" > -->
   </a>
 </p>
-<p align="center">
+<p align="left">
   <a href="http://101.132.99.198" target="_blank">
     <img src="https://simpleicons.org/icons/justgiving.svg" width="24px"/>
   </a>
