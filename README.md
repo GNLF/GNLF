@@ -7,7 +7,8 @@
   </a>
   <br/><br/>
   <a href="https://github.com/GNLF" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GNLF&layout=compact" alt="GNLF's Used Languages" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GNLF&hide_langs_below=1" alt="GNLF's Used Languages" >
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GNLF&layout=compact&hide_langs_below=1" alt="GNLF's Used Languages" > -->
   </a>
 </p>
 <p align="center">
