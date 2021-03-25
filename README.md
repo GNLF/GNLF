@@ -1,5 +1,5 @@
  👋 Hi, I’m @GNLF<br/>
-> ✨ 花开堪折直须折,莫待无花空折枝
+ ✨ Go,Solo!
 
 <p align="left">
   <a href="https://github.com/GNLF" class="rich-diff-level-one">
