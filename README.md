@@ -38,21 +38,25 @@
   </a>
 </p>
 
-## Repository List
-
+<!-- ## Repository List -->
+<!--
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GNLF&repo=blog)](https://github.com/GNLF/blog)
-
+-->
+<!--
 [![Updated Badge](https://badges.pufler.dev/created/GNLF/blog?style=flat&logo=github)](https://github.com/GNLF/blog)  [![Updated Badge](https://badges.pufler.dev/updated/gnlf/blog?style=flat&logo=github)](https://github.com/GNLF/blog)
-   
+-->
+
   <!--
     [![Contributors Display](https://badges.pufler.dev/contributors/gnlf/blog?size=50&padding=5&bots=true)](https://github.com/GNLF/blog)
 -->
-   
+<!--   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GNLF&repo=flip-clock-h5)](https://github.com/GNLF/flip-clock-h5)
-
+-->
+<!--
 [![Updated Badge](https://badges.pufler.dev/created/GNLF/flip-clock-h5?style=flat&logo=github)](https://github.com/GNLF/flip-clock-h5)  [![Updated Badge](https://badges.pufler.dev/updated/gnlf/flip-clock-h5?style=flat&logo=github)](https://github.com/GNLF/flip-clock-h5)
-
+-->
  <!--
    [![Contributors Display](https://badges.pufler.dev/contributors/gnlf/flip-clock-h5?size=50&padding=5&bots=true)](https://github.com/GNLF/flip-clock-h5)
 -->
+
 
