@@ -1,14 +1,14 @@
- 👋 Hi, I’m @GN_凉风<br/>
+ 👋 Hi, I’m @gnlf150318<br/>
  ✨ Go,Solo!
 
 <p align="center">
-  <a href="https://github.com/GNLF" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=GNLF&title_color=333&text_color=777&show_icons=true&count_private=true" alt="GNLF's Stats" >
+  <a href="https://github.com/gnlf" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=gnlf&title_color=333&text_color=777&show_icons=true&count_private=true" alt="gnlf's Stats" >
   </a>
   <br/><br/>
-  <a href="https://github.com/GNLF" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GNLF&hide_langs_below=1" alt="GNLF's Used Languages" >
-<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GNLF&layout=compact&hide_langs_below=1" alt="GNLF's Used Languages" > -->
+  <a href="https://github.com/gnlf" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnlf&hide_langs_below=1" alt="gnlf's Used Languages" >
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnlf&layout=compact&hide_langs_below=1" alt="gnlf's Used Languages" > -->
   </a>
 </p>
 <p align="center">
@@ -24,39 +24,39 @@
     <img src="https://simpleicons.org/icons/bilibili.svg" width="24px"/>
  </a>
   <br><br>
-  <a href="https://github.com/GNLF">
-    <img src="https://badges.pufler.dev/visits/GNLF/GNLF?style=flat&logo=github">
+  <a href="https://github.com/gnlf">
+    <img src="https://badges.pufler.dev/visits/gnlf/gnlf?style=flat&logo=github">
   </a>
-  <a href="https://github.com/GNLF">
-    <img src="https://badges.pufler.dev/years/GNLF?style=flat&logo=github">
+  <a href="https://github.com/gnlf">
+    <img src="https://badges.pufler.dev/years/gnlf?style=flat&logo=github">
   </a>
-  <a href="https://github.com/GNLF">
-    <img src="https://badges.pufler.dev/repos/GNLF?style=flat&logo=github">
+  <a href="https://github.com/gnlf">
+    <img src="https://badges.pufler.dev/repos/gnlf?style=flat&logo=github">
   </a>
-  <a href="https://github.com/GNLF">
-    <img src="https://badges.pufler.dev/commits/monthly/GNLF?style=flat&logo=github">
+  <a href="https://github.com/gnlf">
+    <img src="https://badges.pufler.dev/commits/monthly/gnlf?style=flat&logo=github">
   </a>
 </p>
 
 <!-- ## Repository List -->
 <!--
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GNLF&repo=blog)](https://github.com/GNLF/blog)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gnlf&repo=blog)](https://github.com/gnlf/blog)
 -->
 <!--
-[![Updated Badge](https://badges.pufler.dev/created/GNLF/blog?style=flat&logo=github)](https://github.com/GNLF/blog)  [![Updated Badge](https://badges.pufler.dev/updated/gnlf/blog?style=flat&logo=github)](https://github.com/GNLF/blog)
+[![Updated Badge](https://badges.pufler.dev/created/gnlf/blog?style=flat&logo=github)](https://github.com/gnlf/blog)  [![Updated Badge](https://badges.pufler.dev/updated/gnlf/blog?style=flat&logo=github)](https://github.com/gnlf/blog)
 -->
 
   <!--
-    [![Contributors Display](https://badges.pufler.dev/contributors/gnlf/blog?size=50&padding=5&bots=true)](https://github.com/GNLF/blog)
+    [![Contributors Display](https://badges.pufler.dev/contributors/gnlf/blog?size=50&padding=5&bots=true)](https://github.com/gnlf/blog)
 -->
 <!--   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GNLF&repo=flip-clock-h5)](https://github.com/GNLF/flip-clock-h5)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gnlf&repo=flip-clock-h5)](https://github.com/gnlf/flip-clock-h5)
 -->
 <!--
-[![Updated Badge](https://badges.pufler.dev/created/GNLF/flip-clock-h5?style=flat&logo=github)](https://github.com/GNLF/flip-clock-h5)  [![Updated Badge](https://badges.pufler.dev/updated/gnlf/flip-clock-h5?style=flat&logo=github)](https://github.com/GNLF/flip-clock-h5)
+[![Updated Badge](https://badges.pufler.dev/created/gnlf/flip-clock-h5?style=flat&logo=github)](https://github.com/gnlf/flip-clock-h5)  [![Updated Badge](https://badges.pufler.dev/updated/gnlf/flip-clock-h5?style=flat&logo=github)](https://github.com/gnlf/flip-clock-h5)
 -->
  <!--
-   [![Contributors Display](https://badges.pufler.dev/contributors/gnlf/flip-clock-h5?size=50&padding=5&bots=true)](https://github.com/GNLF/flip-clock-h5)
+   [![Contributors Display](https://badges.pufler.dev/contributors/gnlf/flip-clock-h5?size=50&padding=5&bots=true)](https://github.com/gnlf/flip-clock-h5)
 -->
 
 
