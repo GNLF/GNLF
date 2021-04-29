@@ -1,4 +1,4 @@
- 👋 Hi, I’m @gnlf150318<br/>
+ 👋 Hi, I’m @gnlf<br/>
  ✨ Go,Solo!
 
 <p align="center">
