@@ -33,9 +33,6 @@
   <a href="https://github.com/gnlf">
     <img src="https://badges.pufler.dev/repos/gnlf?style=flat&logo=github">
   </a>
-  <a href="https://github.com/gnlf">
-    <img src="https://badges.pufler.dev/commits/monthly/gnlf?style=flat&logo=github">
-  </a>
 </p>
 
 <!-- ## Repository List -->
