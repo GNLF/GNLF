@@ -24,7 +24,7 @@
     <img src="https://simpleicons.org/icons/bilibili.svg" width="24px"/>
  </a>
   <br><br>
-  <a href="https://github.com/gnlf">
+  <!-- <a href="https://github.com/gnlf">
     <img src="https://badges.pufler.dev/visits/gnlf/gnlf?style=flat&logo=github">
   </a>
   <a href="https://github.com/gnlf">
@@ -32,7 +32,7 @@
   </a>
   <a href="https://github.com/gnlf">
     <img src="https://badges.pufler.dev/repos/gnlf?style=flat&logo=github">
-  </a>
+  </a> -->
 </p>
 
 <!-- ## Repository List -->
