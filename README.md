@@ -1,7 +1,7 @@
  👋 Hi, I’m @GN凉风<br/>
  ✨ Go,Solo!
 
-[![Github contribution grid snake animation](https://raw.githubusercontent.com/gnlf/gnlf/output/github-contribution-grid-snake.svg)](https://github.com/gnlf)
+![Github contribution grid snake animation](https://raw.githubusercontent.com/gnlf/gnlf/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <a href="https://github.com/gnlf" class="rich-diff-level-one">
