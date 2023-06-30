@@ -1,6 +1,9 @@
  👋 Hi, I’m @GN凉风<br/>
  ✨ Go,Solo!
 
+ #####  All projects are based on Quantumult X, Scriptable and Book in ios device, corresponding to "En", "Scriptable" and "Book", respectively. 
+[![Github contribution grid snake animation](https://raw.githubusercontent.com/gnlf/gnlf/output/github-contribution-grid-snake.svg)](https://github.com/gnlf)
+
 <p align="center">
   <a href="https://github.com/gnlf" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=gnlf&title_color=333&text_color=777&show_icons=true&count_private=true" alt="gnlf's Stats" >
